@@ -1,0 +1,72 @@
+File: HW3-input-codes.txt
+The h2() function is Simple.
+The collicion persentage of size 4000 is 0.412.
+The average search time of size 4000 is 0.4805ms.
+The collicion persentage of size 8000 is 0.28725.
+The average search time of size 8000 is 0.4475ms.
+The collicion persentage of size 16000 is 0.21075.
+The average search time of size 16000 is 0.51575ms.
+
+File: HW3-input-codes.txt
+The h2() function is Division Method with P=990523.
+The collicion persentage of size 4000 is 0.3685.
+The average search time of size 4000 is 0.60625ms.
+The collicion persentage of size 8000 is 0.211.
+The average search time of size 8000 is 0.55525ms.
+The collicion persentage of size 16000 is 0.1195.
+The average search time of size 16000 is 0.56925ms.
+
+File: HW3-input-codes.txt
+The h2() function is Multiplication Method with A=0.618034.
+The collicion persentage of size 4000 is 0.37775.
+The average search time of size 4000 is 0.79575ms.
+The collicion persentage of size 8000 is 0.2245.
+The average search time of size 8000 is 0.741ms.
+The collicion persentage of size 16000 is 0.127.
+The average search time of size 16000 is 0.727ms.
+
+File: HW3-input-codes.txt
+The h2() function is Division Method with a=233333 b=114514 P=990523.
+The collicion persentage of size 4000 is 0.35675.
+The average search time of size 4000 is 0.67025ms.
+The collicion persentage of size 8000 is 0.204.
+The average search time of size 8000 is 0.662ms.
+The collicion persentage of size 16000 is 0.11125.
+The average search time of size 16000 is 0.64525ms.
+
+
+File: HW3-input-names.txt
+The h2() function is Simple.
+The collicion persentage of size 4000 is 0.373.
+The average search time of size 4000 is 0.53ms.
+The collicion persentage of size 8000 is 0.237.
+The average search time of size 8000 is 0.5055ms.
+The collicion persentage of size 16000 is 0.14725.
+The average search time of size 16000 is 0.55175ms.
+
+File: HW3-input-names.txt
+The h2() function is Division Method with P=990523.
+The collicion persentage of size 4000 is 0.36125.
+The average search time of size 4000 is 0.46025ms.
+The collicion persentage of size 8000 is 0.21325.
+The average search time of size 8000 is 0.4525ms.
+The collicion persentage of size 16000 is 0.11625.
+The average search time of size 16000 is 0.46525ms.
+
+File: HW3-input-names.txt
+The h2() function is Multiplication Method with A=0.618034.
+The collicion persentage of size 4000 is 0.367.
+The average search time of size 4000 is 0.929ms.
+The collicion persentage of size 8000 is 0.21125.
+The average search time of size 8000 is 0.73275ms.
+The collicion persentage of size 16000 is 0.11625.
+The average search time of size 16000 is 0.8215ms.
+
+File: HW3-input-names.txt
+The h2() function is Division Method with a=233333 b=114514 P=990523.
+The collicion persentage of size 4000 is 0.358.
+The average search time of size 4000 is 0.613ms.
+The collicion persentage of size 8000 is 0.2065.
+The average search time of size 8000 is 0.5325ms.
+The collicion persentage of size 16000 is 0.10925.
+The average search time of size 16000 is 0.5685ms.
