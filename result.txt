@@ -26,7 +26,7 @@ The collicion persentage of size 16000 is 0.127.
 The average search time of size 16000 is 0.727ms.
 
 File: HW3-input-codes.txt
-The h2() function is Division Method with a=233333 b=114514 P=990523.
+The h2() function is MAD Method with a=233333 b=114514 P=990523.
 The collicion persentage of size 4000 is 0.35675.
 The average search time of size 4000 is 0.67025ms.
 The collicion persentage of size 8000 is 0.204.
@@ -63,7 +63,7 @@ The collicion persentage of size 16000 is 0.11625.
 The average search time of size 16000 is 0.8215ms.
 
 File: HW3-input-names.txt
-The h2() function is Division Method with a=233333 b=114514 P=990523.
+The h2() function is MAD Method with a=233333 b=114514 P=990523.
 The collicion persentage of size 4000 is 0.358.
 The average search time of size 4000 is 0.613ms.
 The collicion persentage of size 8000 is 0.2065.

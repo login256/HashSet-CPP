@@ -144,7 +144,7 @@ public:
     static std::string name()
     {
         std::ostringstream os;
-        os << "Division Method with a=" << a << " b=" << b << " P=" << P;
+        os << "MAD Method with a=" << a << " b=" << b << " P=" << P;
         return os.str();
     }
 };
